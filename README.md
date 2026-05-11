@@ -23,7 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-C:\Users\janne\Downloads\Website Walkthrough.mp4
+<video width="320" height="240" controls>
+  <source src="C:\Users\janne\Downloads\Website Walkthrough.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
