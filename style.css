@@ -19,8 +19,23 @@ body {
     margin-top: -10px;
 }
 
+#description-container {
+    font-size: 20px;
+}
+
 .stats-container {
     display: flex;
+    color: white;
+    font-size: 25px;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.stats-container :hover {
+    box-shadow: 0px, 0px, 30px;
+    color: lightblue;
+    cursor: pointer;
 }
 
 .stats-card {
@@ -36,10 +51,26 @@ body {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
 #games-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+#first-game {
+    padding-bottom: 30px;
+}
+
+#second-game {
+    padding-bottom: 30px;
 }
 
 .game-img {
@@ -72,4 +103,47 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    font-size: 20px;
+}
+
+.navbar ul {
+    z-index: 1000; /* Ensures the navbar is on top of other elements */
+    list-style-type: none;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-bottom: 50px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #4e79fc;
+    margin: 0px;
+    padding: center;
+    text-align: center;
+    
+
+}
+
+.header ul li {
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin: 20px;
+    
+}
+
+.header ul li a {
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    padding: 2px;
+    
+}
+
+.header ul li a:hover {
+    color: white;
 }
