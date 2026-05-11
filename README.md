@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='C:\Users\janne\Downloads\Website Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img width="800" height="426" alt="Website Walkthrough" src="https://github.com/user-attachments/assets/123f74b8-436e-477d-ad95-0cd0668c9a05" />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Windows screenshot tool
