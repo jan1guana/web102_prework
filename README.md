@@ -23,11 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src="C:\Users\janne\Downloads\Website Walkthrough.mp4" width="320" height="240" controls></video>
-
+<img src='C:\Users\janne\Downloads\Website Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Windows screenshot tool
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
